@@ -220,4 +220,37 @@ footer p a{
     color: #828282;
 }
 
+/* Modo Escritorio */
+
+@media (min-width: 768px) { 
+
+    body{
+        margin: 200px;
+        margin-top: 30px;
+    }
+    h1{
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 64px;
+        color: #000000;
+        margin-bottom: 12px;
+    }
+
+    #descripcion{
+        margin-top: 12px;
+        width: 592px;
+        height: 51px;
+    }
+
+    .postre img{
+        width: 969px;
+        height: 470px;
+        border-radius: 12px;
+    }
+
+
+
+}
 
