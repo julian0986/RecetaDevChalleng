@@ -222,7 +222,7 @@ footer p a{
 
 /* Modo Escritorio */
 
-@media (min-width: 768px) { 
+@media (min-width: 769px) { 
 
     body{
         margin: 200px;
