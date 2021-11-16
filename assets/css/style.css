@@ -1,0 +1,114 @@
+/* font-family: 'Inconsolata', monospace;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Space Mono', monospace; */
+body{
+    margin: 10px;
+}
+h1{
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+#descripcion{
+    display: flex;
+    
+}
+#descripcion p{
+    margin: 0;
+    margin-left:10px ;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #4F4F4F;
+}
+
+
+.postre img{
+    width: 392px;
+    height: 214px;
+    border-radius: 12px;
+    margin-top: 1rem;
+
+}
+
+#iconos{
+    margin-top: 1rem;
+}
+
+#spoon img{
+    width: 13.54px;
+    height: 12.57px;
+    margin-right: 7px;
+    margin-top: 5px;
+}
+
+#p1{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 8px;
+    line-height: 10px;
+    text-transform: uppercase;
+    color: #BDBDBD;
+    margin: 0;
+    
+}
+
+#p2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    color: #F2994A;
+    margin: 0;
+}
+
+#cuchara{
+    display: flex;
+}
+
+#relojes{
+    display: flex;
+    margin-top: 15px;
+    margin-right: 3rem;
+    justify-content: space-between;
+    
+}
+
+.reloj{
+    display: flex;
+    
+}
+.textos{
+    margin-left: 2px ;
+}
+
+.p1{
+    margin: 0;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 8px;
+    line-height: 10px;
+    text-transform: uppercase;
+    color: #BDBDBD;
+
+}
+.p2{
+    margin: 0;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    color: #333333;
+
+}
