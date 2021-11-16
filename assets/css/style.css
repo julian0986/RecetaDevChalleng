@@ -112,3 +112,43 @@ h1{
     color: #333333;
 
 }
+
+/* section de ingredientes*/
+
+#tituloingredientes h3{
+    font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+
+}
+#tituloingredientes h4{
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 21px;
+
+}
+.checkgraham{
+    display: flex;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 25px;
+    color: #333333;
+}
+.checkgraham p{
+    margin-top: 0;
+}
+.checkgraham p span{
+    font-weight: 700;
+}
+.checkgraham input{
+    margin-right: 8px;
+    margin-left: 0;
+    margin-top: 6px;
+}
+
