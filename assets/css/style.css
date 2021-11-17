@@ -115,6 +115,8 @@ h1{
 
 /* section de ingredientes*/
 
+
+
 #tituloingredientes h3{
     font-family: 'Playfair Display', serif;
     font-style: normal;
@@ -165,6 +167,11 @@ h1{
 .instrucciones{
     display: flex;
 }
+
+.instrucciones p span{
+    font-weight: 700;
+}
+
 .num-instrucciones button{
     background-color: #F2994A;
     border-radius: 6px;
