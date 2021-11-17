@@ -227,6 +227,7 @@ footer p a{
     body{
         margin: 200px;
         margin-top: 30px;
+        margin-bottom: 0;
     }
     h1{
         font-family: 'Playfair Display';
@@ -250,7 +251,73 @@ footer p a{
         border-radius: 12px;
     }
 
+    #relojes{
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        margin-right: 0;
+        
+    }
 
+    #cuchara{
+       
+        gap: 10px;
+        margin-left: 30px;
+    }
+    #spoon{
+        margin-top: 35px;
+        margin-bottom: 1rem;
+    }
+    #p1{
+        margin-top: 35px;
+        font-size: 10px;
+    }
+    #p2{
+        font-size: 14px;
+    }
 
+    .p1{
+        font-size: 10px;
+    }
+    .p2{
+        font-size: 14px;
+    }
+
+    .reloj{
+        margin-bottom: 2rem;
+        gap: 10px;
+        margin-left: 30px;
+    }
+
+    #contenidocompleto{
+        display: flex;
+        flex-direction: row-reverse;
+        gap: 40px;
+
+    }
+
+    #iconos{
+        width: 100%;
+        margin-top: 3rem;
+       
+    }
+
+    .contenidoiconos{
+        background: #FFFFFF;
+        margin-top: 10px;
+        height: 250px;
+        width: 190px;
+        box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+        border-radius: 12px;
+        
+        
+    }
+
+        
 }
+    
+
+
+
+
 
