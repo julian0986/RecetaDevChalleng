@@ -9,16 +9,16 @@
 </div>
 
 <div align="center">
-  <h3>
-    <a href="https://{}">
+  <h3>Cancel changes
+    <a href="https://{https://julian0986.github.io/RecetaDevChalleng/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://julian0986.github.io/RecetaDevChalleng/}">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://{https://julian0986.github.io/RecetaDevChalleng/}">
       Challenge
     </a>
   </h3>
